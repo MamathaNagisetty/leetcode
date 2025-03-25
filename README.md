@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MamathaNagisetty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/MamathaNagisetty/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MamathaNagisetty/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/MamathaNagisetty/leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
