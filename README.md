@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MamathaNagisetty/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MamathaNagisetty/leetcode/tree/master/0010-regular-expression-matching) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/MamathaNagisetty/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
 | ------- |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/MamathaNagisetty/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/MamathaNagisetty/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/MamathaNagisetty/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/MamathaNagisetty/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/MamathaNagisetty/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
