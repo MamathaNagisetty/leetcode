@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MamathaNagisetty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/MamathaNagisetty/leetcode/tree/master/0035-search-insert-position) |
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3430-count-days-without-meetings](https://github.com/MamathaNagisetty/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MamathaNagisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/MamathaNagisetty/leetcode/tree/master/0069-sqrtx) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/MamathaNagisetty/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Graph
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MamathaNagisetty/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
