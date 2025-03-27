@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/MamathaNagisetty/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/MamathaNagisetty/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MamathaNagisetty/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MamathaNagisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/MamathaNagisetty/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/MamathaNagisetty/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/MamathaNagisetty/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Graph
 |  |
