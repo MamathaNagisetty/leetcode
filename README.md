@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MamathaNagisetty/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MamathaNagisetty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/MamathaNagisetty/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/MamathaNagisetty/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MamathaNagisetty/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/MamathaNagisetty/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/MamathaNagisetty/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MamathaNagisetty/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/MamathaNagisetty/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Graph
@@ -99,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/MamathaNagisetty/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/MamathaNagisetty/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/MamathaNagisetty/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/MamathaNagisetty/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
@@ -112,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/MamathaNagisetty/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/MamathaNagisetty/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
