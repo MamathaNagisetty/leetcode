@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MamathaNagisetty/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MamathaNagisetty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0768-partition-labels](https://github.com/MamathaNagisetty/leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MamathaNagisetty/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MamathaNagisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MamathaNagisetty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
+| [0768-partition-labels](https://github.com/MamathaNagisetty/leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String Matching
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MamathaNagisetty/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MamathaNagisetty/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MamathaNagisetty/leetcode/tree/master/0013-roman-to-integer) |
+| [0768-partition-labels](https://github.com/MamathaNagisetty/leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MamathaNagisetty/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sliding Window
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
+| [0768-partition-labels](https://github.com/MamathaNagisetty/leetcode/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MamathaNagisetty/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
