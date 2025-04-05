@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MamathaNagisetty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/MamathaNagisetty/leetcode/tree/master/0035-search-insert-position) |
 | [0179-largest-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0179-largest-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MamathaNagisetty/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MamathaNagisetty/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/MamathaNagisetty/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MamathaNagisetty/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MamathaNagisetty/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/MamathaNagisetty/leetcode/tree/master/0069-sqrtx) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MamathaNagisetty/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MamathaNagisetty/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MamathaNagisetty/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
@@ -157,4 +159,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MamathaNagisetty/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MamathaNagisetty/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MamathaNagisetty/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MamathaNagisetty/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MamathaNagisetty/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
